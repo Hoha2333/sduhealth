@@ -4,8 +4,8 @@ version: v1.0
 # 脚本配置信息，想增加的话就复制粘贴就行
 jobs:
   studentID:
-    - "201800800344"
+    - ""
 
   studentPassword:
-    - "dacheng323243!"
+    - ""
 
